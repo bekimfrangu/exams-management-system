@@ -1,4 +1,4 @@
-# UMP - is a management system for exams in which users (students) can see their subjects along with exams and can choose in which exam they want to to entry so in other hand administrators can manage student's data along with all their subjects and exams including questions and all the system is menagable from admin side.
+# UMP - is a management system for exams in which users (students) can see their subjects along with exams and can choose in which exam they want to to entry so in other hand administrators can manage student's data along with all their subjects and exams including questions and all the system is manageable from admin side.
 
 How to set-up the project:
 
